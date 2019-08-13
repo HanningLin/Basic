@@ -1,4 +1,4 @@
-package HashTable.seperateChaining;
+package HashTable.SeperateChaining;
 
 
 /**

@@ -1,7 +1,7 @@
 package HashTable.OpenAddressing.Impl;
 
 import HashTable.IHashTable;
-import HashTable.seperateChaining.HashNode;
+import HashTable.SeperateChaining.HashNode;
 
 public class HashTableOpenAddressingImpl<K, V> implements IHashTable<K, V> {
 

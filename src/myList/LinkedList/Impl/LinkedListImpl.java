@@ -2,9 +2,6 @@ package myList.LinkedList.Impl;
 
 import myList.LinkedList.ILinkedList;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class LinkedListImpl<E> implements ILinkedList<E> {
 
     private int size;

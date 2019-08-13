@@ -1,7 +1,7 @@
-package HashTable.seperateChaining.Impl;
+package HashTable.SeperateChaining.Impl;
 
 import HashTable.IHashTable;
-import HashTable.seperateChaining.HashNode;
+import HashTable.SeperateChaining.HashNode;
 
 public class HashTableSeperateChainingImpl<K, V> implements IHashTable<K, V> {
 
