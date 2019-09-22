@@ -4,8 +4,6 @@ package HashTable;
  * contains(), add()
  */
 
-import org.omg.Messaging.SYNC_WITH_TRANSPORT;
-
 import java.util.BitSet;
 
 public class BloomFilter {

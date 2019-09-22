@@ -17,4 +17,7 @@ public class Main {
         hashTable.delete(4);
         hashTable.print();
     }
+
+    public static void SwapWithZero(int[] array, int len, int n) {
+    }
 }
